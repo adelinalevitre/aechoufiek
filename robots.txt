@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aetuedaapu.osapp.top/sitemap.xml
